@@ -1,0 +1,32 @@
+.ev-boiler-main-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10%;
+}
+.ev-boiler-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ev-boiler-adder {
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.ev-boiler-img {
+  object-fit: contain;
+  width: 100px;
+}
+
+.boiler-img-container {
+  display: flex;
+  justify-content: center;
+}
+
+.ev-boiler-img-plate {
+  height: 300px;
+  object-fit: contain;
+}
