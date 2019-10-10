@@ -100,8 +100,8 @@ module.exports = ({ mode, presets} = { mode: "production", presets: []})=> {
         chunks: ['start', 'react'],
       }),
       new MiniCssExtractPlugin({
-        filename: 'evive-styles-[hash].css',
-        chunkFilename: 'evive-styles-[hash].css',
+        filename: 'styles-[hash].css',
+        chunkFilename: 'styles-[hash].css',
       }),
     ],
   },
