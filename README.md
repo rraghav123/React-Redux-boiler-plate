@@ -1,7 +1,5 @@
-![alt text](https://www.conference-board.org/images/products/conferences/sponsorlogo/Evive_logo_RGB.jpg "Evive")
 
-
-# Evive React Redux Boiler Plate
+# React Redux Boiler Plate
 
 ## Features:
 - React 16
